@@ -1,5 +1,5 @@
 # Kernel-Scripts
-My Kernel tweaking scripts are available here PLEASE EXECUTE IN TERMINAK WITH THE FOLLOWING COMMANDS TO AVOID ERROR. 
+My Kernel tweaking scripts are available here PLEASE EXECUTE IN TERMINAL WITH THE FOLLOWING COMMANDS TO AVOID ERROR. 
 
 $ su
 $ cd 'downloadlocation' 
