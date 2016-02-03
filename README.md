@@ -3,9 +3,9 @@ My Kernel tweaking scripts are available here PLEASE EXECUTE IN TERMINAL WITH TH
 
 $ su
 
-$ cd 'downloadlocation' 
+$ cd 'downloadlocation'
 
-$ sh 'scriptname'.pdf
+$ sh 'scriptname'
 
 
 You may now enjoy the scripts, replace the words in quotations and the quotations with the corresponding value. 
