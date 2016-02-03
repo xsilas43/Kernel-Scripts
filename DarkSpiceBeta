@@ -75,6 +75,7 @@ echo 0 > /sys/devices/system/cpu/cpu4/cpufreq/interactive/max_freq_hysteresis
 echo 0 > /sys/devices/system/cpu/cpu4/cpufreq/interactive/boostpulse_duration
 echo Disable LITTLE CPU Input Boost 
 echo 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0 > /sys/module/cpu_boost/parameters/input_boost_freq
+echo 0 > /sys/module/cpu_boost/parameters/input_boost_enabled
 echo 0 > /sys/module/cpu_boost/parameters/boost_ms
 echo 0 > /sys/module/cpu_boost/parameters/input_boost_ms
 
