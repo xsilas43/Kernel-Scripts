@@ -1,4 +1,4 @@
-﻿#Author: xSilas43
+#Author: xSilas43
 #Credits: Formulas & Ideas - SoniCron, Awesome Scripts - Alcolawl
 #Device: bullhead
 #Codename: DarkSpice
@@ -73,7 +73,7 @@ echo 200 > /sys/devices/system/cpu/cpu4/cpufreq/interactive/go_hispeed_load
 echo 70000 > /sys/devices/system/cpu/cpu4/cpufreq/interactive/min_sample_time
 echo 0 > /sys/devices/system/cpu/cpu4/cpufreq/interactive/max_freq_hysteresis
 echo 0 > /sys/devices/system/cpu/cpu4/cpufreq/interactive/boostpulse_duration
-echo Disable LITTLE CPU Input Boost 
+echo Disable LITTLE CPU Input Boost
 echo 0 > /sys/module/cpu_boost/parameters/input_boost_enabled
 echo 0:0 1:0 2:0 3:0 4:0 5:0 > /sys/module/cpu_boost/parameters/input_boost_freq
 echo 0 > /sys/module/cpu_boost/parameters/boost_ms
