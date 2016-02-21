@@ -1,0 +1,29 @@
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/go_hispeed_load 200
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/above_hispeed_delay 60000 768000:50000 960000:60000
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/timer_rate 60000
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/hispeed_freq 384000
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/timer_slack -1
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/target_loads 95 384000:75 460000:30 600000:12 672000:14 768000:80 864000:11 960000:98 1248000:8 1344000:99 1478000:100 1555000:100
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/min_sample_time 90000
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/align_windows 0
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/use_migration_notif 1
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/use_sched_load 0
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/max_freq_hysteresis 0
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/boostpulse_duration 0
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/go_hispeed_load 200
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/above_hispeed_delay 50000
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/timer_rate 50000
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/hispeed_freq 633000
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/timer_slack -1
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/target_loads 98 633000:74 768000:43 864000:11 960000:79 1248000:8 1344000:7 1440000:6 1536000:6 1632000:100 1728000:5 1824000:7 1958400:100
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/min_sample_time 75000
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/align_windows 0
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/use_migration_notif 1
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/use_sched_load 0
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/max_freq_hysteresis 0
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/boostpulse_duration 0
+/sys/module/cpu_boost/parameters/input_boost_enabled 0
+/sys/module/cpu_boost/parameters/input_boost_freq 0:0 1:0 2:0 3:0 4:0 5:0 6:0 7:0
+/sys/module/cpu_boost/parameters/boost_ms 0
+/sys/module/cpu_boost/parameters/input_boost_ms 0
+/sys/module/msm_performance/parameters/touchboost 0
